@@ -1,0 +1,7 @@
+keras
+torch
+matplotlib
+numpy
+seaborn
+tqdm
+tensorflow
