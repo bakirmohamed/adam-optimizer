@@ -5,4 +5,4 @@ Adam optimizer implementation from scratch
 
 ## Results
 
-![results](imgs/results.png)
+![results](imgs/adam.png)
